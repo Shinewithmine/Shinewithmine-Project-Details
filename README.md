@@ -1,6 +1,6 @@
 # Shinewithmine - Project Details
 
-![Hydro Mining Concept](./assets/concept-diagram.png)
+![Hydro Mining Concept](https://github.com/Shinewithmine/Shinewithmine-Project-Details/blob/main/Hydro%20Mining%20Concept.png)
 
 # 💧 Shinewithmine — Powering Crypto Mining with Clean Hydro Energy
 
@@ -54,6 +54,10 @@ Our mission is to:
 4. **Sustainable Loop**  
    As energy and hash power grow, so does the vault — creating a self-sustaining and scalable cycle.
 
+
+   [How It Works](https://github.com/Shinewithmine/Shinewithmine-Project-Details/blob/main/How%20It%20Works.mp4)
+
+
 ---
 
 ## 🔒 Why Hydro Energy?
@@ -82,7 +86,7 @@ Here are our foundational documents and links:
 |----------------------------------|----------------------------------------------------------------------|
 | Resource        | Link                                                                                          |
 | 📄 Whitepaper                     | [View Whitepaper](https://github.com/Shinewithmine/Shinewithmine-Project-Details/blob/main/Whitepaper.pdf) |
-| 🧠 Concept & Vision Brief        | [Read Concept Note](https://yourwebsite.com/concept.pdf)            |
+| 🧠 Demo Video                    | [Watch on YouTube](https://www.youtube.com/watch?v=wD5aG5T99LU)         |
 | 📊 Tokenomics Breakdown          | [View Tokenomics](https://github.com/Shinewithmine/Shinewithmine-Project-Details/blob/main/Tokenomics.pdf)           |
 | 🌍 Official Website              | [www.shinewithmine.com](https://www.shinewithmine.com)              |
 | 🏃‍♂️ Roadmap                       | [View Roadmap](https://github.com/Shinewithmine/Shinewithmine-Project-Details/blob/main/Roadmap.pdf)           |
