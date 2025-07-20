@@ -81,11 +81,11 @@ Here are our foundational documents and links:
 | Resource                         | Link                                                                 |
 |----------------------------------|----------------------------------------------------------------------|
 | Resource        | Link                                                                                          |
-| 📄 Whitepaper   | [View Whitepaper](https://drive.google.com/file/d/1KnuWz6CsYNusaPGdt8DTgjUuNwpiEWpw/view?usp=sharing) |
+| 📄 Whitepaper                     | [View Whitepaper](https://github.com/Shinewithmine/Shinewithmine-Project-Details/blob/main/Whitepaper.pdf) |
 | 🧠 Concept & Vision Brief        | [Read Concept Note](https://yourwebsite.com/concept.pdf)            |
-| 📊 Tokenomics Breakdown          | [View Tokenomics](https://yourwebsite.com/tokenomics.pdf)           |
+| 📊 Tokenomics Breakdown          | [View Tokenomics](https://github.com/Shinewithmine/Shinewithmine-Project-Details/blob/main/Tokenomics.pdf)           |
 | 🌍 Official Website              | [www.shinewithmine.com](https://www.shinewithmine.com)              |
-| 🏃‍♂️ Roadmap                       | [View Pitch Deck](https://yourwebsite.com/pitchdeck.pdf)            |
+| 🏃‍♂️ Roadmap                       | [View Roadmap](https://github.com/Shinewithmine/Shinewithmine-Project-Details/blob/main/Roadmap.pdf)           |
 
 ---
 
